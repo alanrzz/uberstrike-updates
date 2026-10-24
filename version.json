@@ -1,8 +1,17 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "build_date": "2026-10-24",
   "webservices": "http://66.97.46.250:5053",
   "fileserver": "http://66.97.46.250:5054",
   "motd": "Bienvenido a UberStrike Remake Argentina!",
-  "patches": []
+  "patches": [
+    {
+      "destination": "UberStrike_Data/Managed/Paradise.Client.Bootstrap.dll",
+      "url": "https://raw.githubusercontent.com/alanrzz/uberstrike-updates/main/patches/Paradise.Client.Bootstrap.dll"
+    },
+    {
+      "destination": "spanish_strings.json",
+      "url": "https://raw.githubusercontent.com/alanrzz/uberstrike-updates/main/patches/spanish_strings.json"
+    }
+  ]
 }
