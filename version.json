@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "build_date": "2026-10-24",
   "webservices": "http://66.97.46.250:5053",
   "fileserver": "http://66.97.46.250:5054",
