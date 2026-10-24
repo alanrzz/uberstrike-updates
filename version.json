@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "build_date": "2026-10-24",
   "webservices": "http://66.97.46.250:5053",
   "fileserver": "http://66.97.46.250:5054",
-  "motd": "Bienvenido a UberStrike Remake Argentina!",
+  "motd": "Bienvenido a UberStrike Remake Argentina! Actualizacion v1.0.5 aplicada.",
   "patches": [
     {
       "destination": "UberStrike_Data/Managed/Paradise.Client.Bootstrap.dll",
