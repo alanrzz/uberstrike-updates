@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "build_date": "2026-10-24",
+  "version": "1.0.9",
+  "build_date": "2026-10-25",
   "webservices": "http://66.97.46.250:5053",
   "fileserver": "http://66.97.46.250:5054",
-  "motd": "Bienvenido a UberStrike Remake Argentina! Actualizacion v1.0.8 (Arranque sin pantalla negra, correccion de servidores y carga nativa fluida).",
+  "motd": "Bienvenido a UberStrike Remake Argentina! Actualizacion v1.0.9 (Soporte completo de Bots IA configurables en creacion de partida).",
   "patches": [
     {
       "destination": "UberStrike_Data/Managed/Paradise.Client.Bootstrap.dll",
